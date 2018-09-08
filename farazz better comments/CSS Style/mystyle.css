@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+	text-align:center;
+}
+p{
+	color: black;
+	line-height: 1.0;
+}
+
+evandescrip{
+	color:black;
+	
+	
+	
+}
+jonnodescrip{
+	color:black;
+	
+	
+}
+kevindescrip{
+	color:black;
+	
+	
+}
+form{
+	color:black;
+}
+li{
+	color:black;
+}
+submitted{
+	color:red;
+}
+
